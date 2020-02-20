@@ -1,0 +1,93 @@
+@import '~antd/dist/antd.css';
+
+.App {
+    text-align: center;
+}
+
+.spin {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.ant-form-item {
+    margin: 0 5px;
+}
+
+.container {
+    width: 45%;
+    display: inline-flex;
+    text-align: center;
+}
+
+.void {
+    border-left: 1px solid #555;
+    height:200px;
+}
+
+.login {
+    padding-right: 15px;
+    width: 50%;
+    text-align: center;
+}
+
+.reg {
+    padding-left: 15px;
+    width: 50%;
+    text-align: center;
+}
+
+.outerPosts {
+    padding: 60px 105px;
+    background-color: rgba(220, 220, 220, 1);
+}
+
+.innerPosts {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+Header {
+    display: flex;
+    height: 120px !important;
+    background-color: #001529;
+}
+
+.title {
+    margin: 8px 0;
+    font-size: 20pt;
+    height: 56px;
+}
+
+h1 {
+    color: papayawhip;
+    font-family: sans-serif;
+}
+
+.menu {
+    text-align: center;
+    padding-top: 2.10px;
+}
+
+.logout {
+    right: 5px;
+    top: 27.5px;
+    position: absolute;
+    transform: translateY(-50%);
+}
+
+.card {
+    margin: 10px 0;
+}
+
+.post {
+    margin: 10px;
+    width: 100%;
+    text-align: left;
+}
+
+.header {
+    width: 100%;
+    text-align: center;    
+}
